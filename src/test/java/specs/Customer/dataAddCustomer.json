@@ -1,0 +1,244 @@
+{
+  "addCustomer": [
+    {
+      "name": "addCustomer_1",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #1, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Fabio Ghetler",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java",
+          "FrameWork": "Appium",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_2",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #2, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Fabio Android",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java2",
+          "FrameWork": "Selenium",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_3",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #3, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Fabio iOS",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java3",
+          "FrameWork": "TestNG",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_4",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #4, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Fabio AWS",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java4",
+          "FrameWork": "Eclipse",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_5",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #5, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Fabio Jenkins",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java5",
+          "FrameWork": "intellij idea",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_6",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #6, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Ghetler Automation",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java6",
+          "FrameWork": "Think About",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_7",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #7, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Fabio Ghetler",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java7",
+          "FrameWork": "I can do it",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_8",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #8, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Fabio Ghetler",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java8",
+          "FrameWork": "AWS Device Farm",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_9",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #9, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Fabio Ghetler",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java9",
+          "FrameWork": "Appium",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_10",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #10, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Fabio Ghetler",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java10",
+          "FrameWork": "Appium",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_11",
+      "do_assertions": true,
+      "test_type": "positive",
+      "description": "Positive #11, customer with all data",
+      "body": {
+        "Context": "FabioGhetlerMobileAutomation",
+        "Android": true,
+        "Customer": {
+          "Name": "Fabio Ghetler",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java11",
+          "FrameWork": "Appium",
+          "EmailAddress": "fabio.ghetler@aboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    },
+    {
+      "name": "addCustomer_12",
+      "do_assertions": false,
+      "test_type": "negative",
+      "description": "Negative #12, Customer with wrong email",
+      "body": {
+        "Context": "LeadWithMinInfo",
+        "newApi": true,
+        "Customer":{
+          "Name": "Fabio Tester",
+          "CurrentAddress": {},
+          "CodeLanguages": "Java",
+          "FrameWork": "Appium",
+          "EmailAddress": "fabioaboutinf.comm",
+          "UseOfPersonalInfoConsent": true
+        },
+        "AWSDeviceFarm": true,
+        "Jenkins": "Jenkins: QA Analyst"
+      }
+    }
+  ]
+}
